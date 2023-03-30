@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26d4da17-d887-46a0-b97f-4874b763532b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice2/AbsoluteNumberCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/practice2/AbsoluteNumberCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise1/NextDayCalculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/exercise1/NextDayCalculateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_9_AutomatedTesting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/_9_AutomatedTesting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practice1_test/SimpleCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/practice1/SimpleCalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +45,13 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/ngoho/OneDrive/Desktop/CodeGym/Module2/_9_AutomatedTesting/test/practice1",
+    "last_opened_file_path": "C:/Users/ngoho/OneDrive/Desktop/CodeGym/Module2/1_JavaIntro/Module2.1.JavaIntro/src/Practice6.java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,6 +67,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercise1" />
       <recent name="practice2" />
     </key>
   </component>
@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680146276976</updated>
-      <workItem from="1680146278144" duration="2210000" />
+      <workItem from="1680146278144" duration="10177000" />
     </task>
     <servers />
   </component>
