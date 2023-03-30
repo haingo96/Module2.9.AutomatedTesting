@@ -1,8 +1,7 @@
-package practice1_test;
+package practice1;
 
 import org.testng.annotations.Test;
 import org.junit.jupiter.api.DisplayName;
-import practice1.SimpleCalculator;
 
 
 import static org.junit.jupiter.api.Assertions.*;
